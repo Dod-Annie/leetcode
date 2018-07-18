@@ -1,3 +1,6 @@
+// Source : https://leetcode-cn.com/problems/two-sum/description/
+// Author : Dod_Annie
+
 /**
  * @param {number[]} nums
  * @param {number} target
